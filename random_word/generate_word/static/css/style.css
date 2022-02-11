@@ -1,0 +1,29 @@
+.main {
+    text-align: center;
+}
+
+h3 {
+    display: block;
+    padding: 10px;
+    margin: 10px auto;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    display: block;
+    padding: 10px;
+    margin: 10px auto;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+form {
+    display: inline-block;
+    padding: 10px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
